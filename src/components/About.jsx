@@ -125,7 +125,7 @@ const About = () => {
         >
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-3 md:mb-4 bg-gradient-to-r from-gray-300 to-gray-400 bg-clip-text text-transparent"
            style={{ fontFamily: 'Acorn, sans-serif' }}>
-            About Me
+            About Me ^_^
           </h2>
           <p className="text-sm md:text-lg text-gray-300">
             Passionate Front-End Developer with a love for creating beautiful, functional web experiences
